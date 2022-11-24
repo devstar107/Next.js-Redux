@@ -1,4 +1,4 @@
-# Coding Challenge - Takeshi Yukio
+# Coding Challenge
 > Next.js, Styled Components, Material-UI, Redux, Typescript
 
 ### Uses
